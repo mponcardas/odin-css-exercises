@@ -1,0 +1,24 @@
+/* styles.css */
+
+.odd-element {
+	background-color: #F2ABA9;
+	font-family: Verdana, 'DejaVu Sans', sans-serif;
+	font-size: 18px;
+}
+
+.big-odd-element {
+	font-size: 24px;
+}
+
+#second-element {
+	color: #0000F5;
+	font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+	font-size: 36px;
+}
+
+#fourth-element {
+	background-color: #A1FC8F;
+	font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
